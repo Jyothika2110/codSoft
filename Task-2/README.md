@@ -22,4 +22,5 @@ This project is a console-based Java application that calculates the total marks
 ## How to Run the Program
 1. Compile the program:
 ## Author
+
 Busipoina Jyothika
